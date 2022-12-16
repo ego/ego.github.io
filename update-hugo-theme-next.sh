@@ -1,4 +1,5 @@
 #!/bin/bash
+set -o errexit
 
 next_boot() {
     cat << EOT
@@ -18,4 +19,8 @@ EOT
 
 next_boot `cat themes/hugo-theme-next/VERSION`
 
-hugo server --port 1414
+# First time update
+# git submodule update --init --recursive
+# Next time update
+set -o verbose
+git submodule update --remote --merge
