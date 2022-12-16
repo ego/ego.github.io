@@ -59,6 +59,61 @@ and visit [http://localhost:1414/](http://localhost:1414/).
 
 
 
+## New Post
+It is recommended to use the following Hugo command to quickly create a new post
+```bash
+hugo new posts/new-post.md
+```
+> **Note**
+> By defalut `hugo new` command will create new post under `content` root directory, so in here `posts` were you custom subfolder in `content` directory.
+
+All front matter parameters's description in post as below:
+
+
+```yml
+---
+title: "{{ replace .Name "-" " " | title }}"
+description: "{{ .Name }}"
+keywords: "{{replace .Name "-" ","}}"
+
+date: {{ .Date }}
+lastmod: {{ .Date }}
+
+categories:
+ -
+tags:
+  -
+  -
+
+# Post's origin author name
+#author:
+# Post's origin link URL
+#link:
+# Image source link that will use in open graph and twitter card
+#imgs:
+# Expand content on the home page
+#expand: true
+# It's means that will redirecting to external links
+#extlink:
+# Disabled comment plugins in this post
+#comment:
+# enable: false
+# Disable table of content int this post
+# Notice: By default will automatic build table of content 
+# with h2-h4 title in post and without other settings
+#toc: false
+# Absolute link for visit
+#url: "{{ lower .Name }}.html"
+# Sticky post set-top in home page and the smaller nubmer will more forward.
+#weight: 1
+# Support Math Formulas render, options: mathjax, katex
+#math: mathjax
+# Enable chart render, such as: flow, sequence, classes etc
+#mermaid: true
+---
+```
+
+
 ## Deployment
 
 ### GitHub Pages
@@ -74,6 +129,7 @@ Published to
   * [ego.systemdef.com](https://ego.systemdef.com)
 
 
+Make the release.
 ```bash
 ./scripts/release.sh
 ```
