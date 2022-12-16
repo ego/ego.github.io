@@ -41,7 +41,7 @@ git submodule update --remote --merge
 ### Update theme
 
 ```bash
-./update-hugo-theme-next.sh
+./scripts/update-hugo-theme-next.sh
 
 git add .
 git commit -m "Update theme up to `cat themes/hugo-theme-next/VERSION`"
@@ -53,7 +53,7 @@ git push
 Just run
 
 ```bash
-startup.sh
+./scripts/hugo-server.sh
 ```
 and visit [http://localhost:1414/](http://localhost:1414/).
 
@@ -72,6 +72,11 @@ Published to
 
   * [ego.github.io](https://ego.github.io)
   * [ego.systemdef.com](https://ego.systemdef.com)
+
+
+```bash
+./scripts/release.sh
+```
 
 
 
