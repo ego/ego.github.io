@@ -1,23 +1,25 @@
 ---
-title: "没有H1-6标题头和评论的文章"
-description: "用于测试在没有H1-6标题头时，文章的目录导航是否会直接关闭，并关闭评论功能。"
+title: "no-header-title"
+description: "no-header-title description"
 keywords: "toc,header"
 
 date: 2022-10-06T09:02:26+08:00
 lastmod: 2022-10-30T21:03:16+08:00
+# published: false
+# draft: false
 
 categories:
-  - 示例
+  - header
 tags:
   - toc
-  - 标题
+  - header
 
 comment:
   enable: false
 url: "post/no-header-title.html"
 ---
 
-刘慈欣2018克拉克奖获奖感言（部分内容节选）。
+no-header-title description
 
 > 用于测试在没有H1-6标题头时，文章的目录导航是否会直接关闭，并关闭评论功能。
 
@@ -39,5 +41,6 @@ url: "post/no-header-title.html"
 
 谢谢大家。
 
+# NOTE
 
 > [点击阅读全文](https://weread.qq.com/web/reader/ce032b305a9bc1ce0b0dd2akecc32f3013eccbc87e4b62e)

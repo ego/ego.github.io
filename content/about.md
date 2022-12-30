@@ -1,5 +1,5 @@
 ---
-title: "关于 Hugo NexT 组织"
+title: "About"
 description: "Hugo NexT 组织介绍说明。"
 
 date: 2022-06-09T20:12:52+08:00
@@ -12,7 +12,9 @@ copyright: false
 url: about.html
 ---
 
-`Hugo NexT` 组织是由众多喜爱 `NexT` 主题及风格的世界各地友人共同组建而成，为的就是让这个主题继续在 `Hugo` 引擎中也能得到发扬光大，在此也欢迎你的加入！
+My name is Vladyslav Ishchenko and I’m an experienced software engineer.
+synergy of business sector and Information IT technology.
+
 
 # 我们的愿景
 
