@@ -1,29 +1,25 @@
 ---
 title: "About"
-description: "Hugo NexT 组织介绍说明。"
+description: "About"
 
-date: 2022-06-09T20:12:52+08:00
-lastmod: 2022-06-09T20:12:52+08:00
-
-share: false
-followme: false
-nav: false
-copyright: false
+date: 2022-12-30
+lastmod: 2022-12-30
 url: about.html
 ---
 
-My name is Vladyslav Ishchenko and I’m an experienced software engineer.
-synergy of business sector and Information IT technology.
+Results-focused **software engineer** with a master's degree.
+Over +15 years of experience delivering robust production code for high-volume businesses for various industries, including e-commerce and large retailers, game development, VoIP telecommunications, web-based scalable software as a service applications for EU and USA markets.
 
+An enthusiastic problem solver and team player.
+A deeply critical thinker, believes in logic and deductive reasoning.
 
-# 我们的愿景
+My main work is related to the computation and mass-users serving around World Wide Web (WWW).
+Everything related to software development, software engineering, scalable and distributed systems, data engineering.
 
-延续 `NexT` 经典的黑白调搭配，保持简单的易用性及强大的功能。
+Programming languages researcher.
+New ideas generator, explorer, solutions designer.
+I like experiments and try to be inventor to the core.
+Always striving to improve my skills and knowledge, 
+in order to be one step ahead of the World.
 
-# 使用反馈
-
-- 加入 [GitHub Discussions](https://github.com/hugo-next/hugo-theme-next/discussions) 或 [Gitter](https://gitter.im/hugo-next/community) 在线讨论 :beers:
-- [GitHub Issues](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Bug&template=bug-report.md) 提交错误报告 :bug:
-- [GitHub Feature](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Feature+Request&template=feature-request.md) 表新功能的想法 :sparkles:
-
-> 同时国内用户也可加入 QQ 群交流： 604710815
+"There is nothing worse than a boring and non inquisitive mind."
