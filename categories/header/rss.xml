@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>header on Ego</title><link>/categories/header/</link><description>Recent content in header on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Thu, 06 Oct 2022 09:02:26 +0800</lastBuildDate><atom:link href="/categories/header/rss.xml" rel="self" type="application/rss+xml"/><item><title>no-header-title</title><link>/post/no-header-title.html</link><pubDate>Thu, 06 Oct 2022 09:02:26 +0800</pubDate><guid>/post/no-header-title.html</guid><description>&lt;p>no-header-title description&lt;/p>
-&lt;blockquote>
-&lt;p>用于测试在没有H1-6标题头时，文章的目录导航是否会直接关闭，并关闭评论功能。&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
