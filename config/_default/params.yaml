@@ -158,7 +158,7 @@ linksSets:
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
 toc:
-  enable: false
+  enable: true
   # Automatically add list number to toc.
   number: true
   # If true, all words will placed on next lines 
@@ -477,7 +477,7 @@ quicklink:
 # Multiple Comment System Support
 comments:
   # If true, will show comment component in post end.
-  enable: true   
+  enable: false
   # Choose a comment system to be displayed by default.
   # Available values: livere | waline | utterances | artalk | giscus 
   active: utterances

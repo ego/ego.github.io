@@ -2,3 +2,5 @@
 *.hugo*.lock
 resources/
 public/
+
+.idea/

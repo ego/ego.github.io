@@ -1,58 +1,91 @@
 ---
-title: "Hello, world"
-description: "Hello, world!"
+title: "Blog hello, world!"
+description: "My personal web blog at ego.systemdef.com"
+keywords: "Blog,Hugo,NexT,static-site,theme"
 
-lastmod: 2022-06-03T16:43:23+08:00
-date: 2022-06-02T11:52:03+08:00
+lastmod: 2022-12-31
+date: 2022-12-31
 
 categories:
- - hello-world
+ - static-site
 tags:
+ - Static site
  - Hugo
+ - Theme template
+ - Blog
 
-url: post/hello-world.html
-toc: true
-weight: 2
+url: post/blog-hello-world.html
+weight: 0
+comment:
+    enable: false
+
 ---
 
-> “使用 `weight` 关键字置顶文章。”
+{{< quote >}}
+After all, my blog has been released!
+{{< /quote >}}
 
-[Hugo](https://gohugo.io/) 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。
+<a href="/post/blog-hello-world.html">
+There are a lot of tools for doing personal blog.
+You can choose any one or even build it by yourself.
+I decided move forward with static site solution, like many ather developers.
+Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.
+<a/>
+
+[//]: # (Fix JS error about post-comments)
+<pre class="post-comments" style="display:none"></pre>
+<img src="/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/>
+
 
 <!--more-->
 
-## 快速开始
 
-### 发表新文章
+## Static site and Hugo
 
-```shell
-$ hugo new hello-world.md
-```
+  * [Hugo](https://gohugo.io)
+  * [Github Hugo](https://github.com/gohugoio/hugo)
+  * [Hugo quick start](https://gohugo.io/getting-started/quick-start/)
 
-更多信息：[内容格式](https://gohugo.io/content-management/formats/)
+## Theme template for Hugo
+Other problem is to chose template theme.
+There are a douse-nt of variants [hugo themes](https://themes.gohugo.io).
+I take one [Hugo theme next](https://github.com/hugo-next/hugo-theme-next)
+and [Hugo theme next starter](https://github.com/hugo-next/hugo-theme-next-starter) as a current starter.
 
-### 启动服务
 
-```shell
-$ hugo server
-```
+## Deployment and GitHub Pages
+No cost option is to use public free hosting GitHub Pages.
+Benefits are:
+* It is a code repository with version control
+* It can be as hosting [GitHub Pages](https://pages.github.com/)
+* It has pipline aka GitHub Actions
+* It has ready to use solution like [Hugo hosting on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
-更多信息：[Hugo 服务命令行](https://gohugo.io/commands/hugo_server/)
+My site is published to these domains
 
-### 生成静态文件
+* [ego.github.io](https://ego.github.io)
+* [ego.systemdef.com](https://ego.systemdef.com)
 
-```shell
-$ hugo
-```
+I do some customisations for theme and created helpers scripts for release.
 
-更多信息：[Hugo 建站](https://gohugo.io/commands/hugo/)
+These website will be mostly for my personal usage 
+as a place for information of different topics.
+But mostly I will post engineering staff.
 
-### 部署到服务器
+&nbsp;
 
-```language
-$ hugo deploy
-```
+> __Have fun__ :laughing:,  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> Sincerely yours Ego,
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> Pray for :ukraine:
 
-更多信息：[Hugo 发布](https://gohugo.io/commands/hugo_deploy/)
-
-祝你好运，相信你会喜欢上 Hugo 建站的旅程！
+&nbsp;\
+&nbsp;
