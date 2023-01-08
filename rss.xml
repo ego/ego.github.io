@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ego</title><link>/</link><description>Recent content on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/rss.xml" rel="self" type="application/rss+xml"/><item><title>Blog hello, world!</title><link>/post/blog-hello-world.html</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>/post/blog-hello-world.html</guid><description>&lt;blockquote class="blockquote-center">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ego</title><link>https://ego.systemdef.com/</link><description>Recent content on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ego.systemdef.com/rss.xml" rel="self" type="application/rss+xml"/><item><title>Blog hello, world!</title><link>https://ego.systemdef.com/post/blog-hello-world.html</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/blog-hello-world.html</guid><description>&lt;blockquote class="blockquote-center">
 After all, my blog has been released!
 &lt;/blockquote>
-&lt;a href="/post/blog-hello-world.html">
+&lt;a href="https://ego.systemdef.com/post/blog-hello-world.html">
 There are a lot of tools for doing personal blog.
 You can choose any one or even build it by yourself.
 I decided move forward with static site solution, like many ather developers.
 Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.
 &lt;a/>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
-&lt;img src="/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>How to fix GitHub repository language</title><link>/post/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>/post/github-repository-language.html</guid><description>&lt;p>
-&lt;a href="post/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
+&lt;img src="https://ego.systemdef.com/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>How to fix GitHub repository language</title><link>https://ego.systemdef.com/post/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/github-repository-language.html</guid><description>&lt;p>
+&lt;a href="https://ego.systemdef.com/post/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
 How to fix GitHub repository code language if you have a question 😄
 &lt;/a>&lt;/p>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
-&lt;img src="GitHub_repository_code_language.png" alt="" width="500"/></description></item><item><title>About</title><link>/about.html</link><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate><guid>/about.html</guid><description>&lt;blockquote>
+&lt;img src="https://ego.systemdef.com/post/GitHub_repository_code_language.png" alt="" width="500"/></description></item><item><title>About</title><link>https://ego.systemdef.com/about.html</link><pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/about.html</guid><description>&lt;blockquote>
 &lt;p>Welcome to my website!&lt;/p>
 &lt;/blockquote>
 &lt;p>Thank you for visiting
@@ -25,5 +25,5 @@ and insights in the world of
 &lt;a href="https://en.wikipedia.org/wiki/Software_engineering" title="software engineering" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
 software engineering
 &lt;i class="fa fa-external-link-alt">&lt;/i>
-&lt;/a>.&lt;/p></description></item><item><title>站点示例</title><link>/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/flinks.html</guid><description>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
+&lt;/a>.&lt;/p></description></item><item><title>站点示例</title><link>https://ego.systemdef.com/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/flinks.html</guid><description>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
 - name: Hugo-NexT desc: Hugo NexT 官方预览网站。 avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png link: https://hugo-next.eu.org</description></item></channel></rss>
