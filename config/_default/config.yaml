@@ -8,8 +8,8 @@
 # Basic configure for Hugo engine 
 # ---------------------------------------------------------------
 
-# Website domain, eg: https://ego.systemdef.com 
-baseURL: /
+# Website domain
+baseURL: https://ego.systemdef.com
 # Website title
 title: Ego
 # Theme name
