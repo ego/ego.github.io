@@ -25,11 +25,7 @@ comment:
 After all, my blog has been released!
 {{< /quote >}}
 
-<a href="/post/blog-hello-world.html">
-There are a lot of tools for doing personal blog.
-You can choose any one or even build it by yourself.
-I decided move forward with static site solution, like many ather developers.
-Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.
+<a href="/post/blog-hello-world.html">There are a lot of tools for doing personal blog. You can choose any one or even build it by yourself. I decided move forward with static site solution, like many ather developers. Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.</a>
 
 [//]: # (Fix JS error about post-comments)
 <pre class="post-comments" style="display:none"></pre>
