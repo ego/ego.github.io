@@ -88,3 +88,4 @@ enableRobotsTXT: true
 # Compress all files when output
 minify:
   minifyOutput: true
+

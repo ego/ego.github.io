@@ -15,7 +15,7 @@ tags:
  - Blog
 
 url: post/blog-hello-world.html
-weight: 0
+weight: 1
 comment:
     enable: false
 
