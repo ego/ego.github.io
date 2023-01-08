@@ -66,6 +66,11 @@ My site is published to these domains
 * [ego.github.io](https://ego.github.io)
 * [ego.systemdef.com](https://ego.systemdef.com)
 
+Setup custom subdomain
+
+* [About custom domains and GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)
+* [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain)
+
 I do some customisations for theme and created helpers scripts for release.
 
 These website will be mostly for my personal usage 
