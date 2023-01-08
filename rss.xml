@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ego</title><link>https://ego.systemdef.com/</link><description>Recent content on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ego.systemdef.com/rss.xml" rel="self" type="application/rss+xml"/><item><title>Blog hello, world!</title><link>https://ego.systemdef.com/post/blog-hello-world.html</link><pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/blog-hello-world.html</guid><description>&lt;blockquote class="blockquote-center">
 After all, my blog has been released!
 &lt;/blockquote>
-&lt;a href="https://ego.systemdef.com/post/blog-hello-world.html">
-There are a lot of tools for doing personal blog.
-You can choose any one or even build it by yourself.
-I decided move forward with static site solution, like many ather developers.
-Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.
+&lt;p>&lt;a href="https://ego.systemdef.com/post/blog-hello-world.html">There are a lot of tools for doing personal blog. You can choose any one or even build it by yourself. I decided move forward with static site solution, like many ather developers. Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.&lt;/a>&lt;/p>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>How to fix GitHub repository language</title><link>https://ego.systemdef.com/post/engineering/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/engineering/github-repository-language.html</guid><description>&lt;p>
 &lt;a href="https://ego.systemdef.com/post/engineering/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
