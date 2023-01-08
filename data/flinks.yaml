@@ -1,7 +1,7 @@
 # Friend's links
 
-- FLinksTitle: Test
-  FLinksDesc: Test
+- FLinksTitle:
+  FLinksDesc:
   FLinksList:
     - name: Hugo
       desc: Hugo

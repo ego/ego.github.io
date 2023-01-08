@@ -21,56 +21,62 @@ main:
     pre: gear
     weight: 2
 
+  - identifier: projects
+    name: Projects
+    pageref: /categories/projects/
+    pre: gear
+    weight: 3
+
   - identifier: books
     name: My library
     pageref: /categories/books/
     pre: book
-    weight: 3
+    weight: 4
 
   - identifier: tabs
     name: My tabs
     pageref: /categories/tabs/
     pre: bookmark
-    weight: 4
+    weight: 5
 
   - identifier: courses
     name: Courses
     pageref: /categories/courses/
     pre: graduation-cap
-    weight: 5
+    weight: 6
 
   # - identifier: writings
   #   name: Writings
   #   pageref: /categories/writings/
   #   pre: pen
-  #   weight: 6
+  #   weight: 7
 
   - identifier: categories
     name: Categories
     pageref: /categories
     pre: list
-    weight: 7
+    weight: 8
 
   - identifier: archives
     name: Timeline
     pageref: /archives.html
     pre: timeline
-    weight: 8
+    weight: 9
 
   - identifier: tags
     name: Tags
     pageref: /tags/
     pre: tags
-    weight: 9
+    weight: 10
 
   - identifier: about
     name: About
     pageref: /about.html
     pre: user
-    weight: 10
+    weight: 11
 
   - identifier: flinks
     name: Friends
     pageref: /flinks.html
     pre: thumbs-up
-    weight: 11
+    weight: 12

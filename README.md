@@ -62,8 +62,11 @@ and visit [http://localhost:1414/](http://localhost:1414/).
 ## New Post
 It is recommended to use the following Hugo command to quickly create a new post
 ```bash
-hugo new post/github-repository-language.md
-hugo new post/github-repository-language/index.md
+hugo new post/engineering/github-repository-language.md
+hugo new post/engineering/github-repository-language/index.md
+
+hugo new post/projects/my-project.md
+hugo new post/projects/my-project/index.md
 ```
 > **Note**
 > By defalut `hugo new` command will create new post under `content` root directory, so in here `posts` were you custom subfolder in `content` directory.

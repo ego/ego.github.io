@@ -13,16 +13,16 @@ tags:
   - git-settings
   - linguist
 
-url: post/github-repository-language.html
+url: post/engineering/github-repository-language.html
 weight: 2
 
 ---
 
-[How to fix GitHub repository code language if you have a question :smile:](/post/github-repository-language.html)
+[How to fix GitHub repository code language if you have a question :smile:](/post/engineering/github-repository-language.html)
 
 [//]: # (Fix JS error about post-comments)
 <pre class="post-comments" style="display:none"></pre>
-<img src="/post/GitHub_repository_code_language.png" alt="" width="500"/>
+<img src="/post/engineering/GitHub_repository_code_language.png" alt="" width="500"/>
 
 <!--more-->
 
