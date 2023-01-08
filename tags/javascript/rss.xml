@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Ego</title><link>https://ego.systemdef.com/tags/javascript/</link><description>Recent content in JavaScript on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ego.systemdef.com/tags/javascript/rss.xml" rel="self" type="application/rss+xml"/><item><title>MacOps</title><link>https://ego.systemdef.com/post/projects/MacOS.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/MacOS.html</guid><description>&lt;h1 id="project-macopspostprojectsmacoshtml">
+&lt;a href="https://ego.systemdef.com/post/projects/MacOS.html" title="Project MacOps" >
+Project MacOps
+&lt;/a>&lt;/h1>
+&lt;p>Repository:
+&lt;a href="https://github.com/ego/MacOps" title="https://github.com/ego/MacOps" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+https://github.com/ego/MacOps
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/p>
+&lt;p>MacOS automate tools and scripts. AppleScript and JavaScript for Automation (JXA).&lt;/p>
+&lt;pre class="post-comments" style="display:none">&lt;/pre>
+&lt;img src="https://ego.systemdef.com/post/projects/MacOps.png" alt="" width="500"/></description></item></channel></rss>

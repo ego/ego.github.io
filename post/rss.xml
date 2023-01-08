@@ -8,9 +8,20 @@ I decided move forward with static site solution, like many ather developers.
 Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.
 &lt;a/>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
-&lt;img src="https://ego.systemdef.com/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>How to fix GitHub repository language</title><link>https://ego.systemdef.com/post/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/github-repository-language.html</guid><description>&lt;p>
-&lt;a href="https://ego.systemdef.com/post/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
+&lt;img src="https://ego.systemdef.com/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>How to fix GitHub repository language</title><link>https://ego.systemdef.com/post/engineering/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/engineering/github-repository-language.html</guid><description>&lt;p>
+&lt;a href="https://ego.systemdef.com/post/engineering/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
 How to fix GitHub repository code language if you have a question 😄
 &lt;/a>&lt;/p>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
-&lt;img src="https://ego.systemdef.com/post/GitHub_repository_code_language.png" alt="" width="500"/></description></item></channel></rss>
+&lt;img src="https://ego.systemdef.com/post/engineering/GitHub_repository_code_language.png" alt="" width="500"/></description></item><item><title>MacOps</title><link>https://ego.systemdef.com/post/projects/MacOS.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/MacOS.html</guid><description>&lt;h1 id="project-macopspostprojectsmacoshtml">
+&lt;a href="https://ego.systemdef.com/post/projects/MacOS.html" title="Project MacOps" >
+Project MacOps
+&lt;/a>&lt;/h1>
+&lt;p>Repository:
+&lt;a href="https://github.com/ego/MacOps" title="https://github.com/ego/MacOps" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+https://github.com/ego/MacOps
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/p>
+&lt;p>MacOS automate tools and scripts. AppleScript and JavaScript for Automation (JXA).&lt;/p>
+&lt;pre class="post-comments" style="display:none">&lt;/pre>
+&lt;img src="https://ego.systemdef.com/post/projects/MacOps.png" alt="" width="500"/></description></item></channel></rss>
