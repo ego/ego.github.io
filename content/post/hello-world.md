@@ -7,6 +7,7 @@ lastmod: 2022-12-31
 date: 2022-12-31
 
 categories:
+ - engineering
  - static-site
 tags:
  - Static site

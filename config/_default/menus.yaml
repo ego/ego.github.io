@@ -15,68 +15,86 @@ main:
     pre: home
     weight: 1
 
+  - identifier: about
+    name: About
+    pageref: /about.html
+    pre: user
+    weight: 2
+
   - identifier: engineering
     name: Engineering
     pageref: /categories/engineering/
     pre: gear
-    weight: 2
-
-  - identifier: projects
-    name: Projects
-    pageref: /categories/projects/
-    pre: gear
     weight: 3
 
-  - identifier: books
-    name: My library
-    pageref: /categories/books/
-    pre: book
+  - identifier: ai
+    name: Artificial Intelligence
+    pageref: /categories/ai/
+    pre: brain
     weight: 4
+
+  - identifier: open-source
+    name: Open source
+    pageref: /categories/open-source/
+    pre: users
+    weight: 5
+
+  - identifier: projects
+    name: My Projects
+    pageref: /categories/projects/
+    pre: user-shield
+    weight: 6
 
   - identifier: tabs
     name: My tabs
     pageref: /categories/tabs/
     pre: bookmark
-    weight: 5
+    weight: 7
+
+  - identifier: books
+    name: My library
+    pageref: /categories/books/
+    pre: book
+    weight: 8
 
   - identifier: courses
     name: Courses
     pageref: /categories/courses/
     pre: graduation-cap
-    weight: 6
+    weight: 9
 
   # - identifier: writings
   #   name: Writings
   #   pageref: /categories/writings/
   #   pre: pen
-  #   weight: 7
+  #   weight: 10
 
   - identifier: categories
     name: Categories
     pageref: /categories
     pre: list
-    weight: 8
+    weight: 11
 
   - identifier: archives
     name: Timeline
     pageref: /archives.html
     pre: timeline
-    weight: 9
+    weight: 12
 
   - identifier: tags
     name: Tags
     pageref: /tags/
     pre: tags
-    weight: 10
-
-  - identifier: about
-    name: About
-    pageref: /about.html
-    pre: user
-    weight: 11
+    weight: 13
 
   - identifier: flinks
     name: Friends
     pageref: /flinks.html
     pre: thumbs-up
-    weight: 12
+    weight: 14
+
+  - identifier: blogs
+    name: Blogs
+    pageref: /post/engineering/blogs.html
+    pre: rss
+    weight: 15

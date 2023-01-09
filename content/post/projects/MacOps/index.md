@@ -8,6 +8,13 @@ lastmod: 2023-01-08
 
 categories:
   - projects
+  - Automation
+  - AppleScript
+  - JavaScript
+  - Bash scripts
+  - Python
+  - iTerm2
+  - Sublime
 tags:
   - macOS
   - MacOps

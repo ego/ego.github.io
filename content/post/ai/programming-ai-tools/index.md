@@ -1,0 +1,65 @@
+---
+title: "Artificial Intelligence programming autocompletion tool for developers"
+description: "How to generate code with Artificial Intelligence"
+keywords: "Artificial Intelligence,engineering,OpenAI,OpenAI Codex,GitHub Copilot"
+
+date: 2023-01-08
+lastmod: 2023-01-08
+
+categories:
+  - ai
+  - engineering 
+  - OpenAI
+tags:
+  - ai
+  - engineering
+  - OpenAI Codex
+  - GitHub Copilot
+
+url: post/ai/programming-ai-tools.html
+weight: 6
+
+---
+
+# [This post describes how to generate code with Artificial Intelligence.](/post/ai/programming-ai-tools.html)
+
+[//]: # (Fix JS error about post-comments)
+<pre class="post-comments" style="display:none"></pre>
+<img src="/post/ai/github-copilot.png"/>
+
+
+<!--more-->
+
+
+## Work In Progress ...
+
+1. https://github.com/features/copilot/
+2. https://openai.com/blog/openai-codex/
+3. https://openai.com/api/
+4. https://www.warp.dev/
+5. https://github.com/openai/openai-cookbook#1-write-code
+6. https://visualstudio.microsoft.com/services/intellicode/
+7. https://www.tabnine.com/
+8. https://plugins.jetbrains.com/plugin/13574-aixcoder-code-completer
+9. https://www.useblackbox.io/landingPage
+10. https://aws.amazon.com/codewhisperer/
+11. https://www.codiga.io/
+12. https://datalore.jetbrains.com/
+13. https://github.com/CodedotAl/gpt-code-clippy
+14. https://github.com/samrawal/emacs-secondmate
+15. https://ai.googleblog.com/2022/07/ml-enhanced-code-completion-improves.html
+16. https://sourcery.ai/
+17. https://codegeex.ai/en-US/
+18. https://codegeex.ai/codeTranslator
+19. https://codegeex.ai/playground
+20. https://github.com/EleutherAI/gpt-neo
+21. https://gpt3demo.com/
+
+
+<img src="/post/ai/ai-autocompletion.jpg"/>
+
+Image generated with [deepai.org](https://deepai.org/machine-learning-model/cyberpunk-generator)
+and a prompt `Artificial Intelligence programming autocompletion tool for developers`.
+
+<br/>
+<br/>

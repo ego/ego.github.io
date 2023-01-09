@@ -7,7 +7,8 @@ date: 2023-01-08
 lastmod: 2023-01-08
 
 categories:
-  - engineering
+  - engineering 
+  - GitHub
 tags:
   - GitHub
   - git-settings
@@ -18,7 +19,7 @@ weight: 2
 
 ---
 
-[How to fix GitHub repository code language if you have a question :smile:](/post/engineering/github-repository-language.html)
+# [How to fix GitHub repository code language if you have a question :smile:](/post/engineering/github-repository-language.html)
 
 [//]: # (Fix JS error about post-comments)
 <pre class="post-comments" style="display:none"></pre>
