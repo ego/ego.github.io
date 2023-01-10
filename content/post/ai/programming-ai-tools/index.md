@@ -15,6 +15,7 @@ tags:
   - engineering
   - OpenAI Codex
   - GitHub Copilot
+  - deepai.org
 
 url: post/ai/programming-ai-tools.html
 weight: 6
