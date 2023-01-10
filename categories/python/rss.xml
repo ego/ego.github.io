@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Ego</title><link>https://ego.systemdef.com/categories/python/</link><description>Recent content in Python on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ego.systemdef.com/categories/python/rss.xml" rel="self" type="application/rss+xml"/><item><title>MacOps</title><link>https://ego.systemdef.com/post/projects/MacOS.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/MacOS.html</guid><description>&lt;h1 id="project-macopspostprojectsmacoshtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Ego</title><link>https://ego.systemdef.com/categories/python/</link><description>Recent content in Python on Ego</description><generator>Hugo -- gohugo.io</generator><language>English</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ego.systemdef.com/categories/python/rss.xml" rel="self" type="application/rss+xml"/><item><title>MacOps</title><link>https://ego.systemdef.com/post/projects/MacOS.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/MacOS.html</guid><description>&lt;h1 id="project-macopspostprojectsmacoshtml">
 &lt;a href="https://ego.systemdef.com/post/projects/MacOS.html" title="Project MacOps" >
 Project MacOps
 &lt;/a>&lt;/h1>
@@ -9,4 +9,24 @@ https://github.com/ego/MacOps
 &lt;/a>&lt;/p>
 &lt;p>MacOS automate tools and scripts. AppleScript and JavaScript for Automation (JXA).&lt;/p>
 &lt;pre class="post-comments" style="display:none">&lt;/pre>
-&lt;img src="https://ego.systemdef.com/post/projects/MacOps.png" alt="" width="500"/></description></item></channel></rss>
+&lt;img src="https://ego.systemdef.com/post/projects/MacOps.png" alt="" width="500"/></description></item><item><title>From Python Django to Clojure, authentication and hashers algorithm</title><link>https://ego.systemdef.com/post/projects/clojure-django.html</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/clojure-django.html</guid><description>&lt;h1 id="project-aespostprojectsclojure-djangohtml">
+&lt;a href="https://ego.systemdef.com/post/projects/clojure-django.html" title="Project AES" >
+Project AES
+&lt;/a>&lt;/h1>
+&lt;p>Repository:
+&lt;a href="https://github.com/ego/AES" title="https://github.com/ego/AES" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+https://github.com/ego/AES
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a>&lt;/p>
+&lt;p>This id old story, about that how we rewrite whole system from Python
+&lt;a href="https://www.djangoproject.com" title="Django" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+Django
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a> stack to
+&lt;a href="https://clojure.org" title="Clojure" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+Clojure
+&lt;i class="fa fa-external-link-alt">&lt;/i>
+&lt;/a>
+and do not break authentication. Users login easily to the new system with old cookies with no problems 😄.&lt;/p>
+&lt;pre class="post-comments" style="display:none">&lt;/pre>
+&lt;img src="https://ego.systemdef.com/post/projects/django.png" alt="" width="500"/></description></item></channel></rss>
