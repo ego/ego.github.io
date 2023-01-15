@@ -3,14 +3,14 @@
 # Configure Settings for Hugo NexT theme
 #-----------------------------------------
 
-# Sections for show in home & archive page 
-# and it's forlder name which under content
+# Sections for show in home & archive page,
+# and it's folder name which under content
 mainSections: ["post"]
 # Format style for year,month,date & time
 yearFormat: "2006"
 monthFormat: "01-02"
 dateFormat: "2006-01-02"
-timeFormat: "2006-01-02T15:04:05-07:00"
+timeFormat: "2006-01-02"
 
 # Schemes
 #scheme: Muse

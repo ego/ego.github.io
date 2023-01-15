@@ -18,7 +18,6 @@ tags:
   - deepai.org
 
 url: post/ai/programming-ai-tools.html
-weight: 6
 
 ---
 
@@ -32,7 +31,7 @@ weight: 6
 <!--more-->
 
 
-## Work In Progress ...
+## Artificial intelligence programming autocompletion tool
 
 1. https://github.com/features/copilot/
 2. https://openai.com/blog/openai-codex/
@@ -57,10 +56,18 @@ weight: 6
 21. https://gpt3demo.com/
 
 
+[//]: # (TODO: review)
+
+
 <img src="/post/ai/ai-autocompletion.jpg"/>
+
+<br>
 
 Image generated with [deepai.org](https://deepai.org/machine-learning-model/cyberpunk-generator)
 and a prompt `Artificial Intelligence programming autocompletion tool for developers`.
 
+<br/>
+<br/>
+Have fun, Ego!
 <br/>
 <br/>

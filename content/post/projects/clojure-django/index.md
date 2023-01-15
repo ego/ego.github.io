@@ -31,7 +31,6 @@ tags:
   - Cipher
 
 url: post/projects/clojure-django.html
-weight: 7
 
 ---
 

@@ -62,11 +62,27 @@ and visit [http://localhost:1414/](http://localhost:1414/).
 ## New Post
 It is recommended to use the following Hugo command to quickly create a new post
 ```bash
-hugo new post/engineering/github-repository-language.md
-hugo new post/engineering/github-repository-language/index.md
+# Engineering
+hugo new post/engineering/{github-repository-language}.md
+hugo new post/engineering/{github-repository-language}/index.md
 
-hugo new post/projects/my-project.md
-hugo new post/projects/my-project/index.md
+# Projects
+hugo new post/projects/{my-project}.md
+hugo new post/projects/{my-project}/index.md
+
+# AI
+hugo new post/ai/{my-ia-post}.md
+hugo new post/ai/{my-ia-post}/index.md
+
+# Open source
+hugo new post/open-source/{lib-post}.md
+hugo new post/open-source/{lib-post}/index.md
+
+# Courses
+hugo new post/courses/{course-post}.md
+hugo new post/courses/{course-post}/index.md
+
+# Books
 ```
 > **Note**
 > By defalut `hugo new` command will create new post under `content` root directory, so in here `posts` were you custom subfolder in `content` directory.
@@ -138,6 +154,24 @@ Make the release.
 ./scripts/release.sh
 ```
 
+
+## GoHugo documentation
+
+  * [Page variables](https://gohugo.io/variables/page/)
+    Usefully for post template `archetypes/default.md`
+
+
+## Theme customization 
+
+Fix **code highlight** horizontal scrolling.
+Edit file `themes/hugo-theme-next/assets/css/_common/scaffolding/highlight/index.scss`
+```scss
+// Disable code block from Horizontal scrolling.
+code[class*="language-"], pre[class*="language-"] {
+  word-wrap: break-word !important;
+  white-space: pre-wrap !important;
+}
+```
 
 
 ## License

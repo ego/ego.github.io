@@ -15,7 +15,6 @@ tags:
   - linguist
 
 url: post/engineering/github-repository-language.html
-weight: 2
 
 ---
 

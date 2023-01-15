@@ -31,7 +31,6 @@ tags:
   - Sublime
 
 url: post/projects/MacOS.html
-weight: 3
 
 ---
 

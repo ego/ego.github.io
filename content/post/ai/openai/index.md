@@ -25,7 +25,6 @@ tags:
   - ChatGPT prompts
 
 url: post/ai/openai-chatgpt-dall-e-2.html
-weight: 5
 
 ---
 
