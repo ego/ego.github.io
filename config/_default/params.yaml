@@ -587,7 +587,7 @@ addThisId: #<Your addthis>
 
 analytics:
   # Google Analytics
-  #google: #<anaytics_id>
+  google: G-NHMSZ3CHZ3
 
   # Show Views / Visitors of the website / page with busuanzi.
   # For more information: http://ibruce.info/2015/04/04/busuanzi/

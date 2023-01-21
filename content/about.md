@@ -43,7 +43,7 @@ My coworkers know me as a deeply [critical thinker](https://en.wikipedia.org/wik
 # Work and life
 My main work is related to developing [**software systems**](https://en.wikipedia.org/wiki/Software_system), the [computation](https://en.wikipedia.org/wiki/Computing), 
 and the mass-users serving over [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW), [Internet](https://en.wikipedia.org/wiki/Internet). So my focus is on related to 
-software engineering topics, scalable and distributed systems, data engineering, [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) and so on.
+software engineering topics, scalable and distributed systems, data engineering, streaming, [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) and so on.
 
 <img src="/images/post/WWW-LetShare.svg" alt="WWW" width="300"/>
 
