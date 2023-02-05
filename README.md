@@ -121,7 +121,7 @@ tags:
 #comment:
 # enable: false
 # Disable table of content int this post
-# Notice: By default will automatic build table of content 
+# Notice: By default will automatic build table of content
 # with h2-h4 title in post and without other settings
 #toc: false
 # Absolute link for visit
@@ -200,7 +200,7 @@ Auto generate  keywords and tags for post.
     Usefully for post template `archetypes/default.md`
 
 
-## Theme customization 
+## Theme customization
 
 Fix **code highlight** horizontal scrolling.
 Edit file `themes/hugo-theme-next/assets/css/_common/scaffolding/highlight/index.scss`
