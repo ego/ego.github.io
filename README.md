@@ -53,41 +53,47 @@ git push
 Just run
 
 ```bash
-./scripts/hugo-server.sh
+./scripts/hugo-run-server.sh
 ```
 and visit [http://localhost:1414/](http://localhost:1414/).
 
 
-
 ## New Post
 It is recommended to use the following Hugo command to quickly create a new post
+
 ```bash
+# Note
+hugo new note/{full-url}.md
+
+# Template
+hugo new {root-category}/{second-category}/{main-tags}/{full-url}.md --debug --verbose
+
 # Engineering
-hugo new post/engineering/{github-repository-language}.md
-hugo new post/engineering/{github-repository-language}/index.md
+hugo new engineering/git/code-stats-metrics/code-stats-metrics-analytics-and-tools.md \
+  && mkdir -p engineering/git/code-stats-metrics/assets
 
 # Projects
-hugo new post/projects/{my-project}.md
-hugo new post/projects/{my-project}/index.md
+hugo new projects/{main-category}/{main-tags}/{full-url}.md
 
 # AI
-hugo new post/ai/{my-ia-post}.md
-hugo new post/ai/{my-ia-post}/index.md
+hugo new ai/{main-category}/{main-tags}/{full-url}.md
 
 # Open source
-hugo new post/open-source/{lib-post}.md
-hugo new post/open-source/{lib-post}/index.md
+hugo new open-source/{main-category}/{main-tags}/{full-url}.md
 
 # Courses
-hugo new post/courses/{course-post}.md
-hugo new post/courses/{course-post}/index.md
+hugo new courses/{main-category}/{main-tags}/{full-url}.md
 
 # Books
+hugo new books/{main-category}/{main-tags}/{full-url}.md
 ```
 > **Note**
 > By defalut `hugo new` command will create new post under `content` root directory, so in here `posts` were you custom subfolder in `content` directory.
 
-All front matter parameters's description in post as below:
+Archetypes are content template files.
+[Archetypes](https://gohugo.io/content-management/archetypes/)
+
+All front matter parameter's description in post as below:
 
 
 ```yml
@@ -95,16 +101,12 @@ All front matter parameters's description in post as below:
 title: "{{ replace .Name "-" " " | title }}"
 description: "{{ .Name }}"
 keywords: "{{replace .Name "-" ","}}"
-
 date: {{ .Date }}
 lastmod: {{ .Date }}
-
 categories:
- -
+  -
 tags:
   -
-  -
-
 # Post's origin author name
 #author:
 # Post's origin link URL
@@ -150,8 +152,45 @@ Published to
 
 
 Make the release.
+
 ```bash
 ./scripts/release.sh
+```
+
+## Tools
+
+### Custom shortcode templates
+
+- [shortcode templates](https://gohugo.io/templates/shortcode-templates/)
+- [syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/)
+
+## Code from file
+
+```markdown
+{{< code_from src="post/engineering/bit-computing-compilers-and-hardware/logic_gate_full_adder_8_bit.py" hl_lines="4-8" >}}
+```
+
+### PyScript
+
+```markdown
+{{< pyscript src="post/engineering/bit-computing-compilers-and-hardware/logic_gate_full_adder_8_bit.html" >}}
+```
+
+[iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+
+
+### Python venv
+
+```bash
+python3 -m venv .env
+source .env/bin/activate
+pip install -r requirements.txt
+```
+
+Auto generate  keywords and tags for post.
+
+```bash
+./tools/post-keywords-tags.py
 ```
 
 

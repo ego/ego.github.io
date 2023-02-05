@@ -10,4 +10,4 @@ EOT
 
 next_boot `cat themes/hugo-theme-next/VERSION`
 
-hugo server --port 1414
+hugo server --port 1414 --buildDrafts --buildFuture

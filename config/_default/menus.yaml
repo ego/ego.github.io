@@ -63,38 +63,44 @@ main:
     pre: graduation-cap
     weight: 9
 
+  - identifier: notes
+    name: Notes
+    pageref: /categories/note/
+    pre: pen
+    weight: 10
+
   # - identifier: writings
   #   name: Writings
   #   pageref: /categories/writings/
   #   pre: pen
-  #   weight: 10
+  #   weight: 11
 
   - identifier: categories
     name: Categories
     pageref: /categories
     pre: list
-    weight: 11
+    weight: 12
 
   - identifier: archives
     name: Timeline
     pageref: /archives.html
     pre: timeline
-    weight: 12
+    weight: 13
 
   - identifier: tags
     name: Tags
     pageref: /tags/
     pre: tags
-    weight: 13
+    weight: 14
 
   - identifier: flinks
     name: Friends
     pageref: /flinks.html
     pre: thumbs-up
-    weight: 14
+    weight: 15
 
   - identifier: blogs
     name: Blogs
     pageref: /post/engineering/blogs.html
     pre: rss
-    weight: 15
+    weight: 16

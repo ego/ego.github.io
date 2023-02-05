@@ -5,7 +5,7 @@
 
 # Sections for show in home & archive page,
 # and it's folder name which under content
-mainSections: ["post"]
+mainSections: ["post", "engineering", "ai", "books", "courses", "open-source", "projects", "note",]
 # Format style for year,month,date & time
 yearFormat: "2006"
 monthFormat: "01-02"

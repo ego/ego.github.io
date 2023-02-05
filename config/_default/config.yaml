@@ -88,3 +88,5 @@ enableRobotsTXT: true
 minify:
   minifyOutput: true
 
+# https://gohugo.io/getting-started/configuration/
+enableGitInfo: true
