@@ -2,9 +2,7 @@
 title: "About"
 description: "About"
 keywords: "software engineering,"
-
 date: 2022-12-30
-lastmod: 2022-12-30
 url: about.html
 ---
 

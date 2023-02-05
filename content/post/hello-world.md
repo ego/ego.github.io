@@ -2,10 +2,7 @@
 title: "Blog hello, world!"
 description: "My personal web blog at ego.systemdef.com"
 keywords: "Blog,Hugo,NexT,static-site,theme"
-
-lastmod: 2022-12-31
 date: 2022-12-31
-
 categories:
  - engineering
  - static-site
@@ -14,12 +11,10 @@ tags:
  - Hugo
  - Theme template
  - Blog
-
 url: post/blog-hello-world.html
 weight: 1
 comment:
     enable: false
-
 ---
 
 {{< quote >}}

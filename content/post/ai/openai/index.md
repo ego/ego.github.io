@@ -2,10 +2,7 @@
 title: "OpenAI, ChatGPT, DALL·E 2, create image from text prompt"
 description: "How to generate image with Artificial Intelligence"
 keywords: "Artificial Intelligence,engineering,OpenAI,ChatGPT,DALL·E 2,Python"
-
 date: 2023-01-08
-lastmod: 2023-01-08
-
 categories:
   - ai
   - engineering 
@@ -23,9 +20,7 @@ tags:
   - artificial intelligence
   - CLI API
   - ChatGPT prompts
-
 url: post/ai/openai-chatgpt-dall-e-2.html
-
 ---
 
 # [This post is describe how to generate image from text prompt.](/post/ai/openai-chatgpt-dall-e-2.html)

@@ -2,10 +2,7 @@
 title: "Software Engineering Courses"
 description: "Software Engineering Courses"
 keywords: "Software Engineer,DevOps,Data,Architect,System,cloud"
-
 date: 2023-01-14
-lastmod: 2023-01-14
-
 categories:
   - courses
 tags:
@@ -23,9 +20,7 @@ tags:
   - Cloud
   - AWS
   - Google
-
 url: "post/courses/software-engineering-courses.html"
-
 ---
 
 # [This post is describe selected courses for software engineering](/post/courses/software-engineering-courses.html)
@@ -46,7 +41,7 @@ Additional knowledge and advanced skills in something very tiny, rare, and valua
 
 0. Software Engineer - Internet and World Wide Web (WWW) technologies 
 1. DevOps Engineer - Infrastructure, scale, reliability, cloud 
-3. Data Engineer - BigData, Data lake, analytics
+3. Data Engineer - BigData, Data lake, data streaming, and analytics
 4. DevOps ML/AI Engineer - AIOps, MLOps
 4. Software Systems Architect - System design and distributed systems 
 
@@ -224,6 +219,9 @@ Main topics which has value for me:
   https://www.coursera.org/specializations/tensorflow-data-and-deployment
 
 
+## Operating System by Neso Academy
+- https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+
 
 ## By top providers
 - https://www.coursera.org/deeplearning-ai
@@ -235,6 +233,16 @@ Main topics which has value for me:
 - https://www.edx.org/learn/computer-programming
 - https://www.edx.org/school/harvardx
 - https://pll.harvard.edu/catalog?keywords=Machine+Learning&op=Search
+
+
+## General CS:
+
+- [Video courses](https://github.com/Developer-Y/cs-video-courses)
+- [Kotlin education](https://kotlinlang.org/education/courses.html)
+- [Coding interview university](https://github.com/jwasham/coding-interview-university)
+- [prakhar1989 awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- Computer Science by CrashCourse
+{{< youtube_video src="https://www.youtube.com/embed/videoseries?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo" >}}
 
 
 <br/>

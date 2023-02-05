@@ -2,10 +2,7 @@
 title: "From Python Django to Clojure, authentication and hashers algorithm"
 description: "This blog post describes how to rewrite whole authentication system from one language to another."
 keywords: "Java,Clojure,Python,Django,AES,ECB,PKCS5Padding,Cryptography"
-
 date: 2023-01-10
-lastmod: 2023-01-10
-
 categories:
   - projects
   - Python
@@ -29,9 +26,7 @@ tags:
   - encrypt
   - decrypt
   - Cipher
-
 url: post/projects/clojure-django.html
-
 ---
 
 # [Project AES](/post/projects/clojure-django.html) #

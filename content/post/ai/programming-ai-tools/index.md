@@ -2,10 +2,7 @@
 title: "Artificial Intelligence programming autocompletion tool for developers"
 description: "How to generate code with Artificial Intelligence"
 keywords: "Artificial Intelligence,engineering,OpenAI,OpenAI Codex,GitHub Copilot"
-
 date: 2023-01-08
-lastmod: 2023-01-08
-
 categories:
   - ai
   - engineering 
@@ -16,9 +13,7 @@ tags:
   - OpenAI Codex
   - GitHub Copilot
   - deepai.org
-
 url: post/ai/programming-ai-tools.html
-
 ---
 
 # [This post describes how to generate code with Artificial Intelligence.](/post/ai/programming-ai-tools.html)
@@ -54,6 +49,8 @@ url: post/ai/programming-ai-tools.html
 19. https://codegeex.ai/playground
 20. https://github.com/EleutherAI/gpt-neo
 21. https://gpt3demo.com/
+22. Facebook’s TransCoder AI
+23. IBM’s CodeNet
 
 
 [//]: # (TODO: review)
@@ -65,6 +62,23 @@ url: post/ai/programming-ai-tools.html
 
 Image generated with [deepai.org](https://deepai.org/machine-learning-model/cyberpunk-generator)
 and a prompt `Artificial Intelligence programming autocompletion tool for developers`.
+
+
+Some images are generated with OpenAI DALL·E 2
+```shell
+curl https://api.openai.com/v1/completions \
+-H 'Content-Type: application/json' \
+-H "Authorization: Bearer $OPENAI_API_KEY" \
+-d '{
+"model": "text-davinci-003",
+"prompt": "",
+"max_tokens": 50,
+"temperature": 0
+}'
+
+openai api image.create -p "" -n 4
+```
+
 
 <br/>
 <br/>

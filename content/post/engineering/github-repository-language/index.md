@@ -2,10 +2,7 @@
 title: "How to fix GitHub repository language"
 description: "How to fix GitHub, repository language."
 keywords: "github,repository,programming languages"
-
 date: 2023-01-08
-lastmod: 2023-01-08
-
 categories:
   - engineering 
   - GitHub
@@ -13,9 +10,7 @@ tags:
   - GitHub
   - git-settings
   - linguist
-
 url: post/engineering/github-repository-language.html
-
 ---
 
 # [How to fix GitHub repository code language if you have a question :smile:](/post/engineering/github-repository-language.html)

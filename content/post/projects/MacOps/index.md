@@ -4,7 +4,6 @@ description: "MacOps"
 keywords: "macOS,MacOps,MacBook,automation,automate,control apps,AppleScript,JavaScript,shell scripts,Script Editor"
 
 date: 2023-01-08
-lastmod: 2023-01-08
 
 categories:
   - projects

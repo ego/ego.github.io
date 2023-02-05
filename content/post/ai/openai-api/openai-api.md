@@ -2,10 +2,7 @@
 title: "OpenAI, ChatGPT, DALL·E 2 API"
 description: "How to use openai Artificial Intelligence API"
 keywords: "Artificial Intelligence,engineering,OpenAI,ChatGPT,DALL·E 2,Python,Bash"
-
 date: 2023-01-11
-lastmod: 2023-01-11
-
 categories:
   - ai
   - engineering 
@@ -20,9 +17,7 @@ tags:
   - Python
   - artificial intelligence
   - ChatGPT prompts
-
 url: post/ai/openai-api.html
-
 ---
 
 # [This post is describe how to use openai API.](/post/ai/openai-api.html)
@@ -39,7 +34,8 @@ url: post/ai/openai-api.html
 
 [First off all read the preview post](/post/ai/openai-chatgpt-dall-e-2.html)
 
-ChatGPT prompt
+[Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 
 ```shell
 curl https://api.openai.com/v1/completions \
@@ -52,6 +48,27 @@ curl https://api.openai.com/v1/completions \
 "temperature": 0
 }'
 ```
+
+
+```Python
+import os
+import openai
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+def raw_query(query: str):
+    return " ".join(query.replace("\n", " ").split())
+
+
+SQL = raw_query("""SELECT * FROM users""")
+
+completion = openai.Completion.create(
+    engine="text-davinci-003", 
+    prompt=f"Optimize this SQL (PostgreSQL) code {SQL}", 
+    max_tokens=3096
+)
+print(completion.choices[0]['text'])
+```
+
 
 DALL·E 2 API
 

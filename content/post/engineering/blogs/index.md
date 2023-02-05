@@ -2,19 +2,14 @@
 title: "Software Engineering Blogs"
 description: "blogs"
 keywords: "blogs"
-
 date: 2023-01-09
-lastmod: 2023-01-09
-
 categories:
   - engineering
 tags:
   - software
   - technical
   - Blog
-
 url: post/engineering/blogs.html
-
 ---
 
 # [The most interesting software engineering blogs](/post/engineering/blogs.html) #
@@ -24,6 +19,8 @@ url: post/engineering/blogs.html
 <img src="/post/engineering/Supercomputer_cyberpunk.png" alt="" width="500"/>
 
 <!--more-->
+
+[//]: # (TODO: add ifrate shortcode for all links)
 
 ## The list of **technical blogs**
 
@@ -39,17 +36,20 @@ url: post/engineering/blogs.html
 10. [aws.amazon.com](https://aws.amazon.com/blogs/)
 11. [developers.googleblog](https://developers.googleblog.com/)
 12. [oreilly.com/radar/](https://www.oreilly.com/radar/)
-13. [Machine Learning Mastery](https://machinelearningmastery.com/)
+13. [Machine Learning Mastery](https://machinelearningmastery.com/)\
+    https://machinelearningmastery.com/blog/
 14. [instagram](https://instagram-engineering.com/)
 15. [netflix](netflixtechblog.com)
 16. [highscalability](http://highscalability.com)
 17. [Real Life Architectures](http://highscalability.squarespace.com/blog/category/example)
 17. [arXiv](https://arxiv.org)
+18. [Supabase PostgreSQL](https://supabase.com/blog)
 
 
 ## Personal blogs
 
 * [Martin Fowler](https://martinfowler.com)
+* [Chris Lattner](https://nondot.org/sabre/)
 * [Murat Buffalo](http://muratbuffalo.blogspot.com)
 * [All Things Distributed](https://www.allthingsdistributed.com)
 * [Martin Kleppmann](https://martin.kleppmann.com)
@@ -58,11 +58,26 @@ url: post/engineering/blogs.html
 * [Distributed Systems Architecture](https://0x0fff.com)
 * [charap.co](http://charap.co/category/reading-group/)
 * [Armin Ronacher](https://lucumr.pocoo.org)
+* [NSHipster](https://nshipster.com/) all about Swift and Apple
+* [daveceddia](https://daveceddia.com/archives/)
+* [Coding with Mohit](https://codingwithmohit.com/) Kotlin and Swift
+* [Jakub Kon](https://www.jakubkonka.com/) Zig lang
+* [Richard Palethorpe](https://richiejp.com) Operating Systems and HTML engineer.
+* [Jeff Glass](https://jeff.glass) Python/PyScript/Emscripten-Shell
+* [Dominik Weckmüller](https://geo.rocks) PyScript
+* [John Hanley](https://jhanley.com)
+
 
 <br>
 
-More blogs can be found at `https://feedly.com/i/top/{topic-here}blogs/`
-like `https://feedly.com/i/top/scalability-blogs` or `https://feedly.com/i/top/python-blogs`
+
+More blogs can be found here 
+
+- https://feedly.com/i/top/scalability-blogs
+- https://feedly.com/i/top/python-blogs
+- https://bloggingfordevs.com/trends/
+- https://bloggingfordevs.com/aws-blogs/
+
 
 <br/>
 <br/>
