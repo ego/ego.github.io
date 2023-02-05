@@ -9,15 +9,16 @@ RELEASE_BRANCH=gh-pages
 echo
 echo "Fetching updates ..."
 git fetch --tags --all
-LAST_TAG=`git describe --tags $(git rev-list --tags --max-count=1)`
+LAST_TAG=$(git describe --tags "$(git rev-list --tags --max-count=1)")
 
-if ![[ `git ls-remote --exit-code --heads $GIT_REPO $RELEASE_BRANCH` ]];
+if ! [[ $(git ls-remote --exit-code --heads $GIT_REPO $RELEASE_BRANCH) ]];
 then
    echo "Error, please create release branch $RELEASE_BRANCH before!"
    exit 1
 fi
 
 # Release tag.
+# shellcheck disable=SC2206
 VERSION_BITS=(${LAST_TAG//./ })
 VNUM1=${VERSION_BITS[0]}
 VNUM2=${VERSION_BITS[1]}
@@ -25,8 +26,8 @@ VNUM3=${VERSION_BITS[2]}
 
 # Check for #major or #minor in commit message.
 set +o errexit
-MAJOR=`git log --format=%B -n 1 HEAD | grep '#major'`
-MINOR=`git log --format=%B -n 1 HEAD | grep '#minor'`
+MAJOR=$(git log --format=%B -n 1 HEAD | grep '#major')
+MINOR=$(git log --format=%B -n 1 HEAD | grep '#minor')
 set -o errexit
 
 # Increment the relevant version number.
