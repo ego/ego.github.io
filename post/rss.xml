@@ -2,22 +2,18 @@
 After all, my blog has been released!
 &lt;/blockquote>
 &lt;p>&lt;a href="https://ego.systemdef.com/post/blog-hello-world.html">There are a lot of tools for doing personal blog. You can choose any one or even build it by yourself. I decided move forward with static site solution, like many ather developers. Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.&lt;/a>&lt;/p>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/></description></item><item><title>GitHub Awesome</title><link>https://ego.systemdef.com/post/open-source/github-awesome.html</link><pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/open-source/github-awesome.html</guid><description>&lt;h1 id="this-post-is-describe-github-awesome-repositoriespostopen-sourcegithub-awesomehtml">
 &lt;a href="https://ego.systemdef.com/post/open-source/github-awesome.html" title="This post is describe GitHub awesome repositories" >
 This post is describe GitHub awesome repositories
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/open-source/github-awesome.png" width="500" alt="github-awesome"/></description></item><item><title>Software Engineering Courses</title><link>https://ego.systemdef.com/post/courses/software-engineering-courses.html</link><pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/courses/software-engineering-courses.html</guid><description>&lt;h1 id="this-post-is-describe-selected-courses-for-software-engineeringpostcoursessoftware-engineering-courseshtml">
 &lt;a href="https://ego.systemdef.com/post/courses/software-engineering-courses.html" title="This post is describe selected courses for software engineering" >
 This post is describe selected courses for software engineering
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/courses/software-engineering-courses.png" alt="software engineering courses" width="500" /></description></item><item><title>OpenAI, ChatGPT, DALL·E 2 API</title><link>https://ego.systemdef.com/post/ai/openai-api.html</link><pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/ai/openai-api.html</guid><description>&lt;h1 id="this-post-is-describe-how-to-use-openai-apipostaiopenai-apihtml">
 &lt;a href="https://ego.systemdef.com/post/ai/openai-api.html" title="This post is describe how to use openai API." >
 This post is describe how to use openai API.
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/ai/openai_api_image.create.png" width="500" /></description></item><item><title>Cross Platform Application Development Technologies and Solutions</title><link>https://ego.systemdef.com/post/engineering/cross-platform-application-development-technologies-and-solutions.html</link><pubDate>Tue, 10 Jan 2023 23:19:46 +0000</pubDate><guid>https://ego.systemdef.com/post/engineering/cross-platform-application-development-technologies-and-solutions.html</guid><description>&lt;p>Cross Platform Application Development Technologies and Solutions&lt;/p></description></item><item><title>From Python Django to Clojure, authentication and hashers algorithm</title><link>https://ego.systemdef.com/post/projects/clojure-django.html</link><pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/clojure-django.html</guid><description>&lt;h1 id="project-aespostprojectsclojure-djangohtml">
 &lt;a href="https://ego.systemdef.com/post/projects/clojure-django.html" title="Project AES" >
 Project AES
@@ -37,22 +33,18 @@ Clojure
 &lt;i class="fa fa-external-link-alt">&lt;/i>
 &lt;/a>
 and do not break authentication. Users login easily to the new system with old cookies with no problems 😄.&lt;/p>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/projects/django.png" alt="" width="500"/></description></item><item><title>Software Engineering Blogs</title><link>https://ego.systemdef.com/post/engineering/blogs.html</link><pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/engineering/blogs.html</guid><description>&lt;h1 id="the-most-interesting-software-engineering-blogspostengineeringblogshtml">
 &lt;a href="https://ego.systemdef.com/post/engineering/blogs.html" title="The most interesting software engineering blogs" >
 The most interesting software engineering blogs
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/engineering/Supercomputer_cyberpunk.png" alt="" width="500"/></description></item><item><title>Artificial Intelligence programming autocompletion tool for developers</title><link>https://ego.systemdef.com/post/ai/programming-ai-tools.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/ai/programming-ai-tools.html</guid><description>&lt;h1 id="this-post-describes-how-to-generate-code-with-artificial-intelligencepostaiprogramming-ai-toolshtml">
 &lt;a href="https://ego.systemdef.com/post/ai/programming-ai-tools.html" title="This post describes how to generate code with Artificial Intelligence." >
 This post describes how to generate code with Artificial Intelligence.
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/ai/github-copilot.png"/></description></item><item><title>How to fix GitHub repository language</title><link>https://ego.systemdef.com/post/engineering/github-repository-language.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/engineering/github-repository-language.html</guid><description>&lt;h1 id="how-to-fix-github-repository-code-language-if-you-have-a-question-postengineeringgithub-repository-languagehtml">
 &lt;a href="https://ego.systemdef.com/post/engineering/github-repository-language.html" title="How to fix GitHub repository code language if you have a question 😄" >
 How to fix GitHub repository code language if you have a question 😄
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/engineering/GitHub_repository_code_language.png" alt="" width="500"/></description></item><item><title>MacOps</title><link>https://ego.systemdef.com/post/projects/MacOS.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/projects/MacOS.html</guid><description>&lt;h1 id="project-macopspostprojectsmacoshtml">
 &lt;a href="https://ego.systemdef.com/post/projects/MacOS.html" title="Project MacOps" >
 Project MacOps
@@ -63,10 +55,8 @@ https://github.com/ego/MacOps
 &lt;i class="fa fa-external-link-alt">&lt;/i>
 &lt;/a>&lt;/p>
 &lt;p>MacOS automate tools and scripts. AppleScript and JavaScript for Automation (JXA).&lt;/p>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/projects/MacOps.png" alt="" width="500"/></description></item><item><title>OpenAI, ChatGPT, DALL·E 2, create image from text prompt</title><link>https://ego.systemdef.com/post/ai/openai-chatgpt-dall-e-2.html</link><pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate><guid>https://ego.systemdef.com/post/ai/openai-chatgpt-dall-e-2.html</guid><description>&lt;h1 id="this-post-is-describe-how-to-generate-image-from-text-promptpostaiopenai-chatgpt-dall-e-2html">
 &lt;a href="https://ego.systemdef.com/post/ai/openai-chatgpt-dall-e-2.html" title="This post is describe how to generate image from text prompt." >
 This post is describe how to generate image from text prompt.
 &lt;/a>&lt;/h1>
-&lt;pre class="post-comments" style="display:none">&lt;/pre>
 &lt;img src="https://ego.systemdef.com/post/ai/dall-e-2.png"/></description></item></channel></rss>
