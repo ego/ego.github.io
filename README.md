@@ -37,6 +37,7 @@ Remember that need use `git submodule` command to pull all things from `hugo-the
 
 ```
 # First time
+git submodule add https://github.com/ego/hugo-theme-next.git themes/hugo-theme-next
 git submodule update --init --recursive
 # Next time
 git submodule update --remote --merge
@@ -47,7 +48,6 @@ git submodule update --remote --merge
 
 ```bash
 ./scripts/update-ego-hugo-theme-next.sh
-
 git add .
 git commit -m "Update theme up to `cat themes/hugo-theme-next/VERSION`"
 git push
@@ -58,7 +58,7 @@ git push
 
 Update [ego/hugo-theme-next](https://github.com/ego/hugo-theme-next) from [upstream/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next)
 
-Main branch is `develop/ego`
+Main branch is `main`
 
 ```shell
 git remote add upstream https://github.com/hugo-next/hugo-theme-next.git
