@@ -39,8 +39,6 @@ Repository: https://github.com/ego/MacOps
 
 MacOS automate tools and scripts. AppleScript and JavaScript for Automation (JXA).
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/projects/MacOps.png" alt="" width="500"/>
 
 <!--more-->

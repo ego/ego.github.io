@@ -3,6 +3,7 @@ title: "Software Engineering Blogs"
 description: "blogs"
 keywords: "blogs"
 date: 2023-01-09
+
 categories:
   - engineering
 tags:
@@ -14,8 +15,6 @@ url: post/engineering/blogs.html
 
 # [The most interesting software engineering blogs](/post/engineering/blogs.html) #
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/engineering/Supercomputer_cyberpunk.png" alt="" width="500"/>
 
 <!--more-->
@@ -71,7 +70,7 @@ url: post/engineering/blogs.html
 <br>
 
 
-More blogs can be found here 
+More blogs can be found here
 
 - https://feedly.com/i/top/scalability-blogs
 - https://feedly.com/i/top/python-blogs

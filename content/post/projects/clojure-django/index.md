@@ -36,8 +36,6 @@ Repository: https://github.com/ego/AES
 This id old story, about that how we rewrite whole system from Python [Django](https://www.djangoproject.com) stack to [Clojure](https://clojure.org)
 and do not break authentication. Users login easily to the new system with old cookies with no problems :smile:. 
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/projects/django.png" alt="" width="500"/>
 
 <!--more-->

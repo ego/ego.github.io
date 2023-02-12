@@ -3,6 +3,7 @@ title: "Software Engineering Courses"
 description: "Software Engineering Courses"
 keywords: "Software Engineer,DevOps,Data,Architect,System,cloud"
 date: 2023-01-14
+
 categories:
   - courses
 tags:
@@ -26,8 +27,6 @@ url: "post/courses/software-engineering-courses.html"
 # [This post is describe selected courses for software engineering](/post/courses/software-engineering-courses.html)
 [//]: # (Post ID: b19a296982dd2f67f7467ecce19010ed)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/courses/software-engineering-courses.png" alt="software engineering courses" width="500" />
 
 <!--more-->
@@ -39,21 +38,21 @@ Every developer, programmer or engineer should have main wide common specializat
 aka Python developer. Also, specific one and/or two areas of knowledge could make you better.
 Additional knowledge and advanced skills in something very tiny, rare, and valuable in the since space.
 
-0. Software Engineer - Internet and World Wide Web (WWW) technologies 
-1. DevOps Engineer - Infrastructure, scale, reliability, cloud 
+0. Software Engineer - Internet and World Wide Web (WWW) technologies
+1. DevOps Engineer - Infrastructure, scale, reliability, cloud
 3. Data Engineer - BigData, Data lake, data streaming, and analytics
 4. DevOps ML/AI Engineer - AIOps, MLOps
-4. Software Systems Architect - System design and distributed systems 
+4. Software Systems Architect - System design and distributed systems
 
 
 <img src="/post/courses/software-engineering-courses-c.png" alt="software engineering courses" width="500" />
 
 
-So, I can divide all onto these spaces 
+So, I can divide all onto these spaces
 
-- Application space 
+- Application space
 - System space
-- Distributed and high scalability spaces 
+- Distributed and high scalability spaces
 - Cloud spaces
 - Data/ML/AI space
 - Software architecture and design

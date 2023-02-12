@@ -3,8 +3,9 @@ title: "How to fix GitHub repository language"
 description: "How to fix GitHub, repository language."
 keywords: "github,repository,programming languages"
 date: 2023-01-08
+
 categories:
-  - engineering 
+  - engineering
   - GitHub
 tags:
   - GitHub
@@ -15,8 +16,6 @@ url: post/engineering/github-repository-language.html
 
 # [How to fix GitHub repository code language if you have a question :smile:](/post/engineering/github-repository-language.html)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/engineering/GitHub_repository_code_language.png" alt="" width="500"/>
 
 <!--more-->

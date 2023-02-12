@@ -15,7 +15,7 @@ Make sure your were installed
 
 
 
-## Theme template
+## Theme templates
 
   * [All hugo themes](https://themes.gohugo.io)
   * [Hugo theme next](https://github.com/hugo-next/hugo-theme-next) current theme in use.
@@ -25,6 +25,10 @@ Make sure your were installed
   * [Hugo theme bootstrap skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
   * [Hugo theme bootstrap docs](https://hbs.razonyang.com/v1/en/docs/configuration/site/)
 
+
+### Current Theme
+
+  [Upgraded Ego Hugo theme Next](https://github.com/ego/hugo-theme-next)
 
 Click the green button which name call `Use this template`.
 After do that click the green button which name call `Create repository from template`, then will create your site code automatic.
@@ -38,7 +42,8 @@ git submodule update --init --recursive
 git submodule update --remote --merge
 ```
 
-### Update theme
+
+### Update Theme
 
 ```bash
 ./scripts/update-ego-hugo-theme-next.sh
@@ -46,6 +51,21 @@ git submodule update --remote --merge
 git add .
 git commit -m "Update theme up to `cat themes/hugo-theme-next/VERSION`"
 git push
+```
+
+
+### Update forked customized Theme
+
+Update [ego/hugo-theme-next](https://github.com/ego/hugo-theme-next) from [upstream/hugo-theme-next](https://github.com/hugo-next/hugo-theme-next)
+
+Main branch is `develop/ego`
+
+```shell
+git remote add upstream https://github.com/hugo-next/hugo-theme-next.git
+git fetch --all
+git checkout develop/ego
+git merge upstream/main
+git push origin develop/ego
 ```
 
 
@@ -216,35 +236,6 @@ Auto generate  keywords and tags for post.
 
   * [Page variables](https://gohugo.io/variables/page/)
     Usefully for post template `archetypes/default.md`
-
-
-## Theme customization
-
-Fix **code highlight** horizontal scrolling.
-Edit file `themes/hugo-theme-next/assets/css/_common/scaffolding/highlight/index.scss`
-```scss
-// Disable code block from Horizontal scrolling.
-code[class*="language-"], pre[class*="language-"] {
-  word-wrap: break-word !important;
-  white-space: pre-wrap !important;
-}
-```
-
-Forked customized theme:
-
-  https://github.com/ego/hugo-theme-next
-
-Main branch is `develop/ego`
-
-Update from upstream in https://github.com/ego/hugo-theme-next
-
-```shell
-git remote add upstream https://github.com/hugo-next/hugo-theme-next.git
-git fetch --all
-git checkout develop/ego
-git merge upstream/main
-git push origin develop/ego
-```
 
 
 ## License

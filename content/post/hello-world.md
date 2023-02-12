@@ -3,6 +3,7 @@ title: "Blog hello, world!"
 description: "My personal web blog at ego.systemdef.com"
 keywords: "Blog,Hugo,NexT,static-site,theme"
 date: 2022-12-31
+
 categories:
  - engineering
  - static-site
@@ -23,10 +24,7 @@ After all, my blog has been released!
 
 <a href="/post/blog-hello-world.html">There are a lot of tools for doing personal blog. You can choose any one or even build it by yourself. I decided move forward with static site solution, like many ather developers. Reading this article you can get more about building personal blog, static-site, theme, Hugo, NexT.</a>
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/images/post/hello-world.jpg" alt="My personal web blog at ego.systemdef.com" width="300"/>
-
 
 <!--more-->
 
@@ -64,13 +62,13 @@ Setup custom subdomain
 
 I do some customisations for theme and created helpers scripts for release.
 
-These website will be mostly for my personal usage 
+These website will be mostly for my personal usage
 as a place for information of different topics.
 But mostly I will post engineering staff.
 
 &nbsp;
 
-> __Have fun__ :laughing:,  
+> __Have fun__ :laughing:,
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > Sincerely yours Ego,

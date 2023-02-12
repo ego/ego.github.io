@@ -3,13 +3,14 @@ title: "OpenAI, ChatGPT, DALL·E 2 API"
 description: "How to use openai Artificial Intelligence API"
 keywords: "Artificial Intelligence,engineering,OpenAI,ChatGPT,DALL·E 2,Python,Bash"
 date: 2023-01-11
+
 categories:
   - ai
-  - engineering 
+  - engineering
   - OpenAI
 tags:
   - ai
-  - engineering 
+  - engineering
   - openai
   - API
   - ChatGPT
@@ -22,10 +23,7 @@ url: post/ai/openai-api.html
 
 # [This post is describe how to use openai API.](/post/ai/openai-api.html)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/ai/openai_api_image.create.png" width="500" />
-
 
 <!--more-->
 
@@ -62,8 +60,8 @@ def raw_query(query: str):
 SQL = raw_query("""SELECT * FROM users""")
 
 completion = openai.Completion.create(
-    engine="text-davinci-003", 
-    prompt=f"Optimize this SQL (PostgreSQL) code {SQL}", 
+    engine="text-davinci-003",
+    prompt=f"Optimize this SQL (PostgreSQL) code {SQL}",
     max_tokens=3096
 )
 print(completion.choices[0]['text'])

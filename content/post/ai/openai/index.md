@@ -3,9 +3,10 @@ title: "OpenAI, ChatGPT, DALL·E 2, create image from text prompt"
 description: "How to generate image with Artificial Intelligence"
 keywords: "Artificial Intelligence,engineering,OpenAI,ChatGPT,DALL·E 2,Python"
 date: 2023-01-08
+
 categories:
   - ai
-  - engineering 
+  - engineering
   - OpenAI
 tags:
   - ai
@@ -25,17 +26,14 @@ url: post/ai/openai-chatgpt-dall-e-2.html
 
 # [This post is describe how to generate image from text prompt.](/post/ai/openai-chatgpt-dall-e-2.html)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/ai/dall-e-2.png"/>
-
 
 <!--more-->
 
 
 ## How to use OpenAI
 
-1. Go to the website openai.com and create user profile. 
+1. Go to the website openai.com and create user profile.
 2. Generate new **OPENAI_API_KEY**.
 3. Use public [API](https://openai.com/api/)
 
@@ -80,7 +78,7 @@ def save_image(url, name):
     if r.status_code == 200:
         with open(f'{HOME}/Downloads/rick/{name}.png', 'wb') as f:
             r.raw.decode_content = True
-            shutil.copyfileobj(r.raw, f) 
+            shutil.copyfileobj(r.raw, f)
 
 
 image_urls = []

@@ -3,9 +3,10 @@ title: "Artificial Intelligence programming autocompletion tool for developers"
 description: "How to generate code with Artificial Intelligence"
 keywords: "Artificial Intelligence,engineering,OpenAI,OpenAI Codex,GitHub Copilot"
 date: 2023-01-08
+
 categories:
   - ai
-  - engineering 
+  - engineering
   - OpenAI
 tags:
   - ai
@@ -18,10 +19,7 @@ url: post/ai/programming-ai-tools.html
 
 # [This post describes how to generate code with Artificial Intelligence.](/post/ai/programming-ai-tools.html)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/post/ai/github-copilot.png"/>
-
 
 <!--more-->
 
