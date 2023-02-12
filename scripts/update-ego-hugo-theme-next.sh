@@ -4,7 +4,7 @@ set -o errexit
 next_boot() {
     cat << EOT
 ========================================
-Hugo NexT version $1
+Ego Hugo NexT version $1
 ========================================
 EOT
 }

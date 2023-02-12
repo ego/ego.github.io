@@ -7,6 +7,7 @@ draft: true
 title: "{{ $title }}"
 keywords: "{{ replace .Name "-" "," | lower }}"
 date: {{ .Date | time.Format "2006-01-02" }}
+
 categories:
   - {{ index (split .File.Dir "/") 0 }}
 tags:
@@ -16,4 +17,5 @@ tags:
 url: "{{ $path }}/{{ $url }}.html"
 ---
 [//]: # (Post ID: {{ .File.UniqueID }})
+
 # [A note on {{ $title }}](/{{ $path }}/{{ $url }}.html)

@@ -7,6 +7,7 @@ draft: true
 title: "{{ $title }}"
 keywords: "{{ replace .Name "-" "," | lower }}"
 date: {{ .Date | time.Format "2006-01-02" }}
+
 categories:
   - {{ index (split .File.Dir "/") 0 }}
   - {{ index (split .File.Dir "/") 1 }}
@@ -19,8 +20,6 @@ url: "{{ $path }}/{{ $url }}.html"
 [//]: # (Post ID: {{ .File.UniqueID }})
 # [In this post we will exploring the essential overview and details of the {{ $title }}](/{{ $path }}/{{ $url }}.html)
 
-[//]: # (Fix JS error about post-comments)
-<pre class="post-comments" style="display:none"></pre>
 <img src="/{{ $path }}/assets/preview.png" width="500"  alt="{{ $title }}"/>
 
 <!--more-->
@@ -36,7 +35,7 @@ Post summary, motivation, what?
 Why?
 
 
-## Know-how 
+## Know-how
 
 ### Research and development
 

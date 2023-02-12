@@ -41,7 +41,7 @@ git submodule update --remote --merge
 ### Update theme
 
 ```bash
-./scripts/update-hugo-theme-next.sh
+./scripts/update-ego-hugo-theme-next.sh
 
 git add .
 git commit -m "Update theme up to `cat themes/hugo-theme-next/VERSION`"
@@ -108,30 +108,34 @@ categories:
 tags:
   -
 # Post's origin author name
-#author:
+author:
 # Post's origin link URL
-#link:
+link:
 # Image source link that will use in open graph and twitter card
-#imgs:
+imgs:
 # Expand content on the home page
-#expand: true
+expand: true
 # It's means that will redirecting to external links
-#extlink:
+extlink:
 # Disabled comment plugins in this post
-#comment:
-# enable: false
+comment:
+  enable: false
 # Disable table of content int this post
 # Notice: By default will automatic build table of content
 # with h2-h4 title in post and without other settings
-#toc: false
+toc: false
 # Absolute link for visit
-#url: "{{ lower .Name }}.html"
+url: "{{ lower .Name }}.html"
 # Sticky post set-top in home page and the smaller nubmer will more forward.
-#weight: 1
+weight: 1
 # Support Math Formulas render, options: mathjax, katex
-#math: mathjax
+math: mathjax
 # Enable chart render, such as: flow, sequence, classes etc
-#mermaid: true
+mermaid: true
+
+# Custom page params:
+js:
+  - "1.js"
 ---
 ```
 
@@ -167,13 +171,27 @@ Make the release.
 ## Code from file
 
 ```markdown
-{{< code_from src="post/engineering/bit-computing-compilers-and-hardware/logic_gate_full_adder_8_bit.py" hl_lines="4-8" >}}
+{{< read_code src="post/engineering/bit-computing-compilers-and-hardware/logic_gate_full_adder_8_bit.py" hl_lines="4-8" >}}
 ```
 
 ### PyScript
 
 ```markdown
-{{< pyscript src="post/engineering/bit-computing-compilers-and-hardware/logic_gate_full_adder_8_bit.html" >}}
+{{< read_code src="/note/test.py" >}}
+
+{{< expand_block "<b style='color: #5bd3eb;'>REPL test.py</b>" >}}
+
+{{< iframe_srcdoc >}}
+{{< pyscript/js >}}
+
+{{< pyscript/py-repl >}}
+{{< read_file src="/note/test.py" >}}
+{{< /pyscript/py-repl >}}
+
+{{< /iframe_srcdoc >}}
+{{< /read_code >}}
+
+{{< /expand_block >}}
 ```
 
 [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
@@ -210,6 +228,22 @@ code[class*="language-"], pre[class*="language-"] {
   word-wrap: break-word !important;
   white-space: pre-wrap !important;
 }
+```
+
+Forked customized theme:
+
+  https://github.com/ego/hugo-theme-next
+
+Main branch is `develop/ego`
+
+Update from upstream in https://github.com/ego/hugo-theme-next
+
+```shell
+git remote add upstream https://github.com/hugo-next/hugo-theme-next.git
+git fetch --all
+git checkout develop/ego
+git merge upstream/main
+git push origin develop/ego
 ```
 
 

@@ -1,0 +1,5 @@
+{{- $id := default now.Unix (.Get "id") -}}
+{{- $auto_generate := (.Get "auto-generate") -}}
+<py-repl id="{{ $id }}" {{ if $auto_generate }}auto-generate="{{ $auto_generate }}"{{end}} std-out="output" std-err="output">
+{{ .Inner }}
+</py-repl>

@@ -1,0 +1,27 @@
+<style>
+.code-title {
+    @apply table-cell px-6 py-1 font-semibold leading-tight text-center text-white rounded-t-xl;
+    background-color: #5bd3eb;
+}
+
+.code-title {
+    display: table-cell;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #1c1b1b;
+    text-align: center;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    background-color: #5bd3eb;
+}
+</style>
+{{ $file := .Get "src" | readFile | htmlUnescape | safeHTML }}
+{{ $lang := .Get "lang" }}
+{{ $ext := .Get "src" | path.Ext }}
+<p class="code-title">{{ path.Base (.Get "src") }}</p>
+{{ highlight $file (or $lang $ext) $.Params }}
+{{ .Inner }}

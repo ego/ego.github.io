@@ -83,7 +83,7 @@ sidebar:
 
   # Muse | Mist: 320
   # Pisces | Gemini: 240
-  # 
+  #
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
@@ -109,11 +109,11 @@ avatar:
   rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: true
-siteState: 
+siteState:
   # Posts / Categories / Tags in sidebar.
   basic: true
   # Site information
-  statistic: 
+  statistic:
     enable: true
     # Plguin value is: 51la, busuzazi
     plugin: busuanzi
@@ -122,7 +122,7 @@ siteState:
 # Usage: `Key: name || permalink || icon`
 # Key is the link label order.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
-socials: 
+socials:
   social0: Github || https://github.com/ego || fab fa-github
   #social1: E-Mail || mailto:yourname@gmail.com || fa fa-envelope
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -151,7 +151,7 @@ linksSets:
 
 # Links of your friends
 # Usage: `Key: name || permalink`
-# links: 
+# links:
 #   link0: Ego || https://github.com/ego
 #   link1: Ego || https://github.com/ego
 
@@ -161,10 +161,10 @@ toc:
   enable: true
   # Automatically add list number to toc.
   number: true
-  # If true, all words will placed on next lines 
+  # If true, all words will placed on next lines
   # if header width longer then sidebar width.
   wrap: false
-  # If true, all level of TOC in a post will be displayed, 
+  # If true, all level of TOC in a post will be displayed,
   # rather than the activated part of it.
   expandAll: false
   # Maximum heading depth of generated toc.
@@ -177,7 +177,7 @@ toc:
 footer:
   # Enable google translate in footer
   translate: true
-  # Specify the year when the site was setup. 
+  # Specify the year when the site was setup.
   # If not defined, current year will be used.
   since: 2010
 
@@ -196,7 +196,7 @@ footer:
   # Powered by Hugo & NexT
   powered: false
 
-  # Beian ICP and gongan information for Chinese users. 
+  # Beian ICP and gongan information for Chinese users.
   # See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
     enable: false
@@ -204,7 +204,7 @@ footer:
     provinceAbbr:
     gonganNum:
 
-  # Vendors list who support website. 
+  # Vendors list who support website.
   vendors:
     enable: false
     # Some support information description.
@@ -212,7 +212,7 @@ footer:
     # Vendors list, remember that who with logo image need put in top.
     list:
       - name: Test
-        image: 
+        image:
           url: /imgs/vendors/upyun.png
           width: 43
         link: https://test.com
@@ -223,7 +223,7 @@ footer:
 # ---------------------------------------------------------------
 
 # TODO
-# Automatically excerpt description in homepage 
+# Automatically excerpt description in homepage
 # as preamble text (not implemented by now).
 excerptDesc: true
 
@@ -252,7 +252,7 @@ postFooter:
 
 # Donate (Sponsor) settings.
 rewardSets:
-  # If true, a donate button will be displayed 
+  # If true, a donate button will be displayed
   # in every article by default.
   enable: false
   # If true, the donate type title will with animation.
@@ -304,7 +304,7 @@ bodyScrollbar:
   stable: true
 
 # Codeblock settings
-codeblock:    
+codeblock:
   # Available values: default | flat | mac
   style: mac
   # Add copy button on codeblock
@@ -411,7 +411,7 @@ font:
 # ---------------------------------------------------------------
 
 # Automatically add `target='_blank'` attribute in external URL.
-exturl: 
+exturl:
   enable: true
   # If true, an icon will be attached to each external URL
   icon: true
@@ -437,7 +437,7 @@ baiduSiteVerification: #<verify_code>
 # Warning: It's global settings then will load scripts in every page.
 #math: mathjax
 
-# FancyBox is a tool that offers a nice and elegant way 
+# FancyBox is a tool that offers a nice and elegant way
 # to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
 fancybox: true
@@ -479,9 +479,9 @@ comments:
   # If true, will show comment component in post end.
   enable: false
   # Choose a comment system to be displayed by default.
-  # Available values: livere | waline | utterances | artalk | giscus 
+  # Available values: livere | waline | utterances | artalk | giscus
   active: utterances
-  # Setting `true` means remembering the comment system selected by 
+  # Setting `true` means remembering the comment system selected by
   # the visitor, otherwise use the `active` setting comment system.
   storage: false
   # Lazyload all comment systems.
@@ -576,9 +576,9 @@ rating:
   id:     # <app_id>
   color:  "#fc6423"
 
-# AddThis Share. 
+# AddThis Share.
 # See: https://www.addthis.com
-addThisId: #<Your addthis> 
+addThisId: #<Your addthis>
 
 
 # ---------------------------------------------------------------
@@ -683,7 +683,7 @@ pdf:
 
 # Mermaid tag
 mermaid:
-  enable: true
+  enable: false
   # Available themes: default | dark | forest | neutral
   theme:
     light: default

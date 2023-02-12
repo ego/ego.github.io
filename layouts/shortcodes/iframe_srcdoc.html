@@ -1,0 +1,13 @@
+{{- $title := default "title" (.Get "title") -}}
+{{- $lines_count := split .Inner "\n" | len | mul 15 -}}
+{{- $default_height := ($lines_count | string | printf "%spx") -}}
+{{- $height := default $default_height (.Get "height") -}}
+<iframe
+        allowfullscreen
+        frameborder="0"
+        srcdoc="{{ .Inner | htmlUnescape }}"
+        title="{{ $title  }}"
+        width="100%"
+        height="{{ $height }}"
+>
+</iframe>

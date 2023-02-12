@@ -1,0 +1,18 @@
+# ./tools/free-domain.py
+aiohttp
+
+
+# ./tools/post-keywords-tags.py
+markdown
+bs4
+rakun2
+
+git+https://github.com/boudinfl/pke.git
+# python -m spacy download en_core_web_sm
+
+sumy
+openai
+
+torch
+torchvision
+transformers
