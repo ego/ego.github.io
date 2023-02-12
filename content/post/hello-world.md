@@ -34,12 +34,14 @@ After all, my blog has been released!
   * [Hugo](https://gohugo.io)
   * [Github Hugo](https://github.com/gohugoio/hugo)
   * [Hugo quick start](https://gohugo.io/getting-started/quick-start/)
+  * [Ego customized hugo-theme-next](https://github.com/ego/hugo-theme-next.git)
 
 ## Theme template for Hugo
 Other problem is to chose template theme.
 There are a douse-nt of variants [hugo themes](https://themes.gohugo.io).
 I take one [Hugo theme next](https://github.com/hugo-next/hugo-theme-next)
-and [Hugo theme next starter](https://github.com/hugo-next/hugo-theme-next-starter) as a current starter.
+and [Hugo theme next starter](https://github.com/hugo-next/hugo-theme-next-starter) as a current starter
+ with customized option [ego/hugo-theme-next](https://github.com/ego/hugo-theme-next).
 
 
 ## Deployment and GitHub Pages
