@@ -14,7 +14,9 @@ url: "note/modular-mojo.html"
 
 # [A note on Modular Mojo](/note/modular-mojo.html)
 
-<img src="/mojo.png"/>
+<img src="/images/post/mojo.png"/>
+
+<!--more-->
 
 [Modular AI Mojo](https://www.modular.com/mojo)
 
