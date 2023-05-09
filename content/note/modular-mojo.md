@@ -14,8 +14,9 @@ url: "note/modular-mojo.html"
 
 # [A note on Modular Mojo](/note/modular-mojo.html)
 
+<img src="/mojo.png"/>
 
-(Modular AI Mojo)[https://www.modular.com/mojo]
+[Modular AI Mojo](https://www.modular.com/mojo)
 
 
 Mojo 🔥 — a new programming language for all AI developers.
