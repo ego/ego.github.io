@@ -18,8 +18,8 @@ url: "note/modular-mojo.html"
 
 <!--more-->
 
-[Modular AI Mojo](https://www.modular.com/mojo)
-
+[Some note about Modular](https://www.modularml.cloud)
+and [Mojo](https://www.mojo-lang.dev)
 
 Mojo 🔥 — a new programming language for all AI developers.
 
