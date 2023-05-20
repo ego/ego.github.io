@@ -15,6 +15,10 @@ url: "note/python-packaging-tools.html"
 
 # [A note on Python Packaging Tools](/note/python-packaging-tools.html)
 
+<img src="/images/post/python-list-packages.png"/>
+
+<!--more-->
+
 You can start from here
 
 * [Python Packaging Tool recommendations](https://packaging.python.org/en/latest/guides/tool-recommendations/)
