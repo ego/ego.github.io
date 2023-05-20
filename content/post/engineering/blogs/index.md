@@ -43,6 +43,14 @@ url: post/engineering/blogs.html
 17. [Real Life Architectures](http://highscalability.squarespace.com/blog/category/example)
 17. [arXiv](https://arxiv.org)
 18. [Supabase PostgreSQL](https://supabase.com/blog)
+19. [Modular AI](https://www.modular.com/blog/)
+20. [InfiniteLambda](https://infinitelambda.com/category/tech-blog/)
+21. [PythonSpeed Docker](https://pythonspeed.com/about/)
+22. [PythonSpeed DataScience](https://pythonspeed.com/datascience/)
+23. [Security](https://patchthenet.com)
+24. [Web Application Security](https://patchthenet.com/web-application-security/)
+24. [GTFOBins](https://gtfobins.github.io)
+25. [frida](https://frida.re/docs/functions/)
 
 
 ## Personal blogs
@@ -65,6 +73,12 @@ url: post/engineering/blogs.html
 * [Jeff Glass](https://jeff.glass) Python/PyScript/Emscripten-Shell
 * [Dominik Weckmüller](https://geo.rocks) PyScript
 * [John Hanley](https://jhanley.com)
+* [Martin Heinz](https://martinheinz.dev)
+
+
+## MLOps blogs
+
+* [DataTalks.Club](https://datatalks.club)
 
 
 <br>
