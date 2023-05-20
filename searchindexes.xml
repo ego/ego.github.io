@@ -5,7 +5,13 @@ It is a code repository with version control It can be as hosting GitHub Pages I
 ego.github.io ego.systemdef.com Setup custom subdomain
 About custom domains and GitHub Pages Managing a custom domain for your GitHub Pages site I do some customisations for theme and created helpers scripts for release.
 These website will be mostly for my personal usage as a place for information of different topics. But mostly I will post engineering staff.
-Have fun 😆, Sincerely yours Ego, Pray for 🇺🇦</content></entry><entry><title>Modular Mojo</title><url>/note/modular-mojo.html</url><categories><category>note</category></categories><tags><tag>modular</tag><tag>mojo</tag></tags><content type="html"><![CDATA[ A note on Modular Mojo Some note about Modular and Mojo Mojo 🔥 — a new programming language for all AI developers.
+Have fun 😆, Sincerely yours Ego, Pray for 🇺🇦</content></entry><entry><title>Python Packaging Tools</title><url>/note/python-packaging-tools.html</url><categories><category>note</category></categories><tags><tag>python</tag><tag>packaging</tag><tag>tools</tag></tags><content type="html"> A note on Python Packaging Tools You can start from here
+Python Packaging Tool recommendations Packaging Python Projects The Packaging Flow Key tools Bootstrap process of creating new Python Package
+poetry pip-tools hatch hatch intro pdm pdm into flit pyscaffold poetry nice and modern. pip-tools I had cooked it before, good but require a lot of actions. hatch and pdm did not suit me, I tried but no results.
+Lets discovery pyscaffold
+1python3 -m venv .env 2source .env/bin/activate 3 4pip install --upgrade pyscaffold[all] 5putup -i new_project 6 7git tag v0.1.0 8tox -e docs 9tox -e build 10tox -e publish -- --repository pypi Awesome! Python package is published =)
+Very nice but a little bit outdated. If add modern stack, it will be the best bootstrapping tool for Python ecosystem!
+Hint: give you an idea for tooling development.</content></entry><entry><title>Modular Mojo</title><url>/note/modular-mojo.html</url><categories><category>note</category></categories><tags><tag>modular</tag><tag>mojo</tag></tags><content type="html"><![CDATA[ A note on Modular Mojo Some note about Modular and Mojo Mojo 🔥 — a new programming language for all AI developers.
 Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
 Why Mojo? &ldquo;Mojo may be the biggest programming language advance in decades.&rdquo;
 &ldquo;Language that’s as elegant as Python and as fast as expert-written C, allows me to use one language to write everything from the application server, to the model architecture and the installer too, and lets me debug and profile my code directly in the language in which I wrote it.&rdquo;
